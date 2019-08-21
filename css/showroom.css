@@ -212,6 +212,7 @@ button {
 }
 .list_text li {
   position: relative;
+  margin-top: 5px;
   padding-left: 14px;
   font-size: 14px;
   line-height: 22px;
