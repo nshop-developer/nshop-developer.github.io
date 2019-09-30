@@ -1,0 +1,11 @@
+- title: SHOWROOM
+  url: "/"
+  side: left
+
+- title: Blogs
+  url: "/blog/"
+  side: right
+
+- title: "Careers"
+  url: "https://recruit.navercorp.com/naver/job/list/developer?searchSysComCd=&entTypeCd=&searchTxt=%EB%84%A4%EC%9D%B4%EB%B2%84+%EC%87%BC%ED%95%91"
+  side: right
